@@ -1,1 +1,2 @@
 # Book_Recommendation_Project
+This project is a Machine Learning-based book recommendation system that suggests books to users based on their preferences. It utilizes techniques like collaborative filtering and content-based filtering to provide personalized recommendations. The system is trained on a dataset of books, user interactions, and ratings. This project can be used for personal reading suggestions or integrated into online book platforms to enhance user experience."
